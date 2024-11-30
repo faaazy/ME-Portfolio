@@ -165,7 +165,7 @@ header {
   padding: 80px 20px;
 
   background-color: var(--black-bg);
-
+  cursor: default;
   &:hover {
     .about__item-show {
       opacity: 0;
